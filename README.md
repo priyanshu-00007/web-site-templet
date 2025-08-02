@@ -1,1 +1,2 @@
-# web-site-templet
+# Friend small game
+language :- html css
