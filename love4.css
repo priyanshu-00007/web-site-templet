@@ -1,0 +1,45 @@
+body{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#mainblock{
+    height: 500px;
+    width: 550px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(248, 114, 228);
+   
+}
+#img{
+    height: 200px;
+    width: 200px;
+    border: 2px black solid;
+    border-radius: 10px;
+    object-fit: cover;
+  margin-top: 50px;
+    
+}
+#btnyes{
+    height: 40px;
+    width: 80px;
+    border: 2px black solid;
+    border-radius: 10px;
+    margin-right: 50px;
+    background-color: rgb(7, 252, 7);
+    
+}
+#btnno{
+    height: 40px;
+    width: 80px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color:red;
+}
+#btnno:hover{
+    margin-left: 500px;
+
+}
